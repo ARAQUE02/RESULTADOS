@@ -195,11 +195,11 @@
                   </div>
                 </td>
               </tr>
-              <tr><th>Brazo Izquierdo</th><td>${resultado["BRAZO IZQ."] ?? ''}</td></tr>
-              <tr><th>Brazo Derecho</th><td>${resultado["BRAZO DER."] ?? ''}</td></tr>
-              <tr><th>Pierna Derecha</th><td>${resultado["PIERNA DER."] ?? ''}</td></tr>
-              <tr><th>Pierna Izquierda</th><td>${resultado["PIERNA IZQ."] ?? ''}</td></tr>
-              <tr><th>Tronco</th><td>${resultado["TRONCO"] ?? ''}</td></tr>
+              <tr><th>Brazo Izquierdo</th><td>${resultado["BRAZO IZQ_1."] ?? ''}</td></tr>
+              <tr><th>Brazo Derecho</th><td>${resultado["BRAZO DER_1."] ?? ''}</td></tr>
+              <tr><th>Pierna Derecha</th><td>${resultado["PIERNA DER_1."] ?? ''}</td></tr>
+              <tr><th>Pierna Izquierda</th><td>${resultado["PIERNA IZQ_1."] ?? ''}</td></tr>
+              <tr><th>Tronco</th><td>${resultado["TRONCO_1"] ?? ''}</td></tr>
               <tr class="subtitulo"><th colspan="2"><b>Índices corporales</b></th></tr>
               <tr>
                 <th>IMC (Índice de Masa Corporal)</th>
